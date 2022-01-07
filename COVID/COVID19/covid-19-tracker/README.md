@@ -1,15 +1,16 @@
-Create a React application using the following command:
+1. Create a React application using the following command:
 
 - npx create-react-app foldername
 
-After creating your project folder i.e. foldername, move to it using the following command:
+2. After creating your project folder i.e. foldername, move to it using the following command:
 
 - cd foldername
 
-Run the application using the following command from the root directory of the project:
+3. Run the application using the following command from the root directory of the project:
 
 - npm start
 
+4. open your browser and go to http://localhost:3000/,
 
 ![image](https://user-images.githubusercontent.com/93828003/148564972-184adea2-fd19-43c7-a1d5-8ceb9d29a7c9.png)
 ![image](https://user-images.githubusercontent.com/93828003/148565038-17a4deef-a2f3-45a3-96d7-980f0dc76e9d.png)
