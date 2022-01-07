@@ -1,3 +1,5 @@
+# COVID-19 Tracker
+
 1. Create a React application using the following command:
 
 - npx create-react-app foldername
